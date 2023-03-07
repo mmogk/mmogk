@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Seth Mogk✨</h1>
+<h1 align="center"><img src="./media/waving-hand.gif" width="28">👋 Hello! I'm Seth Mogk✨</h1>
 
   <a href="https://www.linkedin.com/in/seth-mogk-586809256/">
   <img align="center" alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
